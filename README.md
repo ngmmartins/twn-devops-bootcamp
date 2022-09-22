@@ -1,6 +1,6 @@
 # TWN DevOps Bootcamp
 
-This are my notes on the [TechWorld with Nana's DevOps Bootcamp](https://www.techworld-with-nana.com/devops-bootcamp). They are written in [Notion](https://www.notion.so/) and exported to this [README.md](http://README.md). My solutions to the exercises are also present here as well as on it's own repositories.
+This are my notes on the [TechWorld with Nana's DevOps Bootcamp](https://www.techworld-with-nana.com/devops-bootcamp). They are written in [Notion](https://www.notion.so/) and exported to this README.md. My solutions to the exercises are also present here as well as on it's own repositories.
 
 There is content hosted on my personal Google Drive that is private and you will not be able to access it. The Bootcamp is not free, so I will not publish any content that is delivered in the Bootcamp.
 
